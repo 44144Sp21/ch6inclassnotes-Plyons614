@@ -24,13 +24,13 @@ footer {font-size: 70%;
 		 width: 80%;
          min-width: 960px;
          max-width: 1200px;
-		 background-color: #b3c7e6;
+		 background-color: #ffffff;
 		 color: #000066;
 		 }
 nav { font-weight: bold;
 	 letter-spacing: 0.1em;
      float: right;
-     width: 200px;
+     width: 170px;
 	 }
 nav ul {list-style-type: none;
         margin: 0px;
@@ -94,5 +94,5 @@ article header {background-color: #ffffff;
 		  font-style: italic;
 		  }
 #floatright { float: right;
-              margin: 15px;
+              margin: 20px;
 			 }
